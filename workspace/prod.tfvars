@@ -1,0 +1,11 @@
+vpc = "172.2.0.0/16"
+publicregion1 = "us-east-1a"
+
+publiccidr1 = "172.2.1.0/24"
+publicregion2 = "us-east-1b"
+publiccidr2 = "172.2.2.0/24"
+taginternetgateway = "prod_IG_1"
+tagpublicsubnet2 = "prod_public subnet2"
+tagpublicsubnet1 = "prod_public subnet1"
+tagvpcname = "prod_vpc1"
+tagsecgroup = "prod_SG1"
